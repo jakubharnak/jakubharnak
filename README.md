@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @jakubharnak
-- 👀 I’m interested in IoT
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in IoT and software development
+- 🌱 I’m currently studying on VUT FIT
 - 📫 How to reach me harnakjakub@gmail.com
-- ⚡ Fun fact: ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
