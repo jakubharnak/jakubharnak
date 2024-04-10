@@ -29,9 +29,9 @@
   --->
 
 
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="ja" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="ja" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cpp" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="cs" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="ja" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="ja" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="ja" width="40" height="40"/> </a>
