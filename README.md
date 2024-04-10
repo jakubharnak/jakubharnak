@@ -29,7 +29,7 @@
   --->
 
 
-  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AC_Programming_Language.svg&psig=AOvVaw3rKPIcowjLoalQi5fd_ViK&ust=1712862945859000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNi5-e2tuIUDFQAAAAAdAAAAABAE" alt="C" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="ja" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="ja" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="ja" width="40" height="40"/> </a>
