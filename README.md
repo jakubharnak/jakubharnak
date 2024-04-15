@@ -2,11 +2,9 @@
 
 <h1 align-"center">
 <a href-"https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height-70&duration=4000&lines-Hi+There!+ 0;+I'm+Jakub+Harňák !; " />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" />
 </a>
 </h1>
-
-<h3 align="center">A passionate software developer from Canada CA</h3>
 
 <br/>
 
