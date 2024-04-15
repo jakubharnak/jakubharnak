@@ -57,8 +57,12 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="ja" width="40" height="40"/> </a>
   --->
 
-<h3 align="left">⚡ Stats ⚡:</h3>
-[![Anurag's GitHub stats](https://github-readme-stats-jakubharnaks-projects.vercel.app/api?username=jakubharnak)](https://github.com/jakubharnak/github-readme-stats)
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="jakubharnak's Github Stats" src="https://github-readme-stats-jakubharnaks-projects.vercel.app/api?username=jakubharnak&show_icons=true&hide_border=true" />
+
+</details>
 <!---
 jakubharnak/jakubharnak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
