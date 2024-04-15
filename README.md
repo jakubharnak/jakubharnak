@@ -60,9 +60,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="jakubharnak's Github Stats" src="https://github-readme-stats-jakubharnaks-projects.vercel.app/api?username=jakubharnak&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=radical" />
-
-  ![Top Langs](https://github-readme-stats-jakubharnaks-projects.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  <img align="left" alt="jakubharnak's Github Stats" src="https://github-readme-stats-jakubharnaks-projects.vercel.app/api?username=jakubharnak&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 <!---
