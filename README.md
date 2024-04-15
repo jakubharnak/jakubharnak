@@ -8,9 +8,9 @@
 
 <br/>
 
-- 👀 I’m interested in IoT and software development
-- 🌱 I’m currently studying on VUT FIT
-- 📫 How to reach me harnakjakub@gmail.com
+- 👀 I’m interested in **IoT and software development**
+- 🌱 I’m currently **studying on VUT FIT**
+- 📫 How to reach me **harnakjakub@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
