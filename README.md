@@ -58,7 +58,7 @@
   --->
 
 <h3 align="left">⚡ Stats ⚡:</h3>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubharnak)](https://github.com/jakubharnak/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-jakubharnaks-projects.vercel.app/api?username=jakubharnak)](https://github.com/jakubharnak/github-readme-stats)
 <!---
 jakubharnak/jakubharnak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
