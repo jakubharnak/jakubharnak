@@ -57,7 +57,7 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="ja" width="40" height="40"/> </a>
   --->
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h3 align="left">⚡ Stats ⚡:</h3>
 <br>
 <div align=center>
 <img width=390 src="https://streak-stats.demolab.com/?user=jakubharnak&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
